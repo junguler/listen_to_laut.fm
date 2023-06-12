@@ -10,7 +10,6 @@ jobs:
 
       - name: run commands
         run: |
-          sudo apt install unzip -y
           unzip ./things.zip
 
       - name: add & commit
