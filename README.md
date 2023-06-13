@@ -238,7 +238,7 @@
 
 [Dance](https://junguler.github.io/listen_to_laut.fm/things/Dance.html) 
 
-[Dance_&_Electronic](https://junguler.github.io/listen_to_laut.fm/things/Dance_&_Electronic.html) 
+[Dance_and_Electronic](https://junguler.github.io/listen_to_laut.fm/things/Dance_&_Electronic.html) 
 
 [Dancefloor](https://junguler.github.io/listen_to_laut.fm/things/Dancefloor.html) 
 
@@ -828,7 +828,7 @@
 
 # R 
 
-[R&B](https://junguler.github.io/listen_to_laut.fm/things/R&B.html) 
+[RnB](https://junguler.github.io/listen_to_laut.fm/things/R&B.html) 
 
 [Radio](https://junguler.github.io/listen_to_laut.fm/things/Radio.html) 
 
@@ -858,7 +858,7 @@
 
 [Rock](https://junguler.github.io/listen_to_laut.fm/things/Rock.html) 
 
-[Rock_&_Pop](https://junguler.github.io/listen_to_laut.fm/things/Rock_&_Pop.html) 
+[Rock_n_Pop](https://junguler.github.io/listen_to_laut.fm/things/Rock_&_Pop.html) 
 
 [Rockabilly](https://junguler.github.io/listen_to_laut.fm/things/Rockabilly.html) 
 
